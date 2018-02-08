@@ -1,0 +1,66 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'UNTITLED.pdsprj'.
+CADCAM generated at 8:19:17 PM on Monday, January 08, 2018.
+
+File List
+---------
+Top Copper              : Powerbrick-panel - CADCAM Top Copper.GBR
+Bottom Copper           : Powerbrick-panel - CADCAM Bottom Copper.GBR
+Top Silk Screen         : Powerbrick-panel - CADCAM Top Silk Screen.GBR
+Bottom Silk Screen      : Powerbrick-panel - CADCAM Bottom Silk Screen.GBR
+Top Solder Resist       : Powerbrick-panel - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : Powerbrick-panel - CADCAM Bottom Solder Resist.GBR
+Top SMT Paste           : Powerbrick-panel - CADCAM Top SMT Paste.GBR
+Mechanical 3            : Powerbrick-panel - CADCAM Mechanical 3.GBR
+Top Assembly            : Powerbrick-panel - CADCAM Top Assembly.GBR
+Bottom Assembly         : Powerbrick-panel - CADCAM Bottom Assembly.GBR
+Drill                   : Powerbrick-panel - CADCAM Drill.DRL
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 4.3, metric, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=0.508mm                                                         DRAW 
+D11	CIRCLE  D=0.635mm                                                         DRAW 
+D12	CIRCLE  D=0.254mm                                                         DRAW 
+D13	CIRCLE  D=0.2032mm                                                        DRAW 
+D14	CIRCLE  D=0.762mm                                                         FLASH
+D15	CIRCLE  D=2.2mm                                                           FLASH
+D16	CIRCLE  D=1.524mm                                                         FLASH
+D17	SQUARE  S=1.524mm                                                         FLASH
+D18	RECT    W=0.762mm             H=1.27mm                                    FLASH
+D19	RECT    W=1.524mm             H=1.016mm                                   FLASH
+D70	RECT    W=1.016mm             H=1.524mm                                   FLASH
+D71	RECT    W=0.762mm             H=1.143mm                                   FLASH
+D20	RECT    W=0.762mm             H=1.2192mm                                  FLASH
+D21	CIRCLE  D=1.016mm                                                         FLASH
+D22	CIRCLE  D=2.45399mm                                                       FLASH
+D23	CIRCLE  D=1.778mm                                                         FLASH
+D24	PPAD    W=1.778mm             H=1.778mm             I=0                   FLASH
+D25	PPAD    W=1.016mm             H=1.524mm             I=1                   FLASH
+D26	PPAD    W=1.778mm             H=1.27mm              I=2                   FLASH
+D27	PPAD    W=1.27mm              H=1.778mm             I=3                   FLASH
+D28	PPAD    W=1.016mm             H=1.397mm             I=4                   FLASH
+D29	PPAD    W=1.016mm             H=1.4732mm            I=5                   FLASH
+D72	CIRCLE  D=0.08534mm                                                       DRAW 
+D73	CIRCLE  D=0.09144mm                                                       DRAW 
+D30	CIRCLE  D=0.09847mm                                                       DRAW 
+D31	CIRCLE  D=0.07819mm                                                       DRAW 
+D32	CIRCLE  D=0.46939mm                                                       DRAW 
+D33	CIRCLE  D=0.16459mm                                                       DRAW 
+
+NC Drill Setup
+--------------
+Format: Excellon, ASCII, 4.3, metric, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	0.381mm (0-15) Plated
+T02	2mm (0-15) Plated
+T03	0.965mm (0-15) Plated
+
+
+[END OF FILE]

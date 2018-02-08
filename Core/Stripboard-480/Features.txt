@@ -1,0 +1,9 @@
+Otto's DIY: Protoboard-1120
+
+- 8HP Eurorack compatible
+- 12x40 breadboard-stype prototyping area
+- Double sided plated through-hole connections
+- Easy to solder square pads
+- Optional Case grounding/shielding
+- 10 Easy-access ground connections
+- Break-away tabs for stackable designs
