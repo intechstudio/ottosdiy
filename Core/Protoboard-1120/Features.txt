@@ -1,9 +1,9 @@
 Otto's DIY: Protoboard-1120
 
-- 16HP Eurorack compatible
-- 28x40 Prototyping area
+- 16HP eurorack compatible
+- 28x40 prototyping area
 - Double sided plated through-hole connections
-- Easy to solder square pads
-- Optional Case grounding/shielding
-- 10 Easy-access ground connections
+- Easy to solder pad per hole layout
+- Optional case grounding/shielding
+- 10 easy-access ground connections
 - Break-away tabs for stackable designs
