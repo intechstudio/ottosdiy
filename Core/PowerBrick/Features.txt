@@ -1,8 +1,0 @@
-Otto's DIY: PowerBrick
-
-- Supply noise filtering
-- Short-circuit protection
-- Over-voltage clamping
-- Current limiting
-- Status indicator LED
-- 10 & 16 pin busboard connection
