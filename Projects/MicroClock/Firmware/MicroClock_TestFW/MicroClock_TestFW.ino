@@ -40,13 +40,10 @@ void tick_a(){
 
 void tick_b(){
      
-  digitalWrite(8, counter%3);
-  digitalWrite(6, counter%5);
-  digitalWrite(4, counter%7);
+  digitalWrite(8, counter/2%2);
+  digitalWrite(6, counter/4%2);
+  digitalWrite(4, counter/8%2);
   
-  counter++;
-  counter++;
-  counter%=840;
 }
 
 void loop() {
@@ -54,7 +51,16 @@ void loop() {
   unsigned int clk = map(analogRead(A1), 0, 1023, 255, 0);  
   
   delayMicroseconds((clk)*50);
+  tick_b();
+  delayMicroseconds((clk)*50);
+  tick_b();
+  delayMicroseconds((clk)*50);
+  tick_b();
+  delayMicroseconds((clk)*50);
   tick_a();
   tick_b();
 
+  counter++;
+  counter++;
+  counter%=840;
 }
