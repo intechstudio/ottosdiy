@@ -12,6 +12,9 @@ https://www.intech.studio/shop/
 Find out more on the Intech Studio website:
 https://intech.studio/p/?&page=Ottos
 
+## Generic Components
+[10k linear potentiometer](https://www.tme.eu/hu/details/t812-1-16/idc-csatlakozok/amphenol-icc/t812116a101ceu/)
+
 ## Cookbook Components
 
 2x [Bicolor LED](https://www.tme.eu/hu/details/ll-309vugm2e-v11a/tht-led-diodak-3mm/luckylight/ll-309vugm2e-v11a-2b/)
